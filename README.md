@@ -1,1 +1,1 @@
-Data Science
+This repo contains basic project related to data science.
