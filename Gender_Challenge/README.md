@@ -8,5 +8,7 @@ Then we can predict the gender of someone given a novel set of body metrics.
 ##Dependencies
 
 Scikit-learn (http://scikit-learn.org/stable/install.html)
+
 numpy (pip install numpy)
+
 scipy (pip install scipy)
