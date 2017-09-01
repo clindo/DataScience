@@ -1,4 +1,4 @@
-twitter_sentiment_challenge
+##twitter_sentiment_challenge
 
 Twitter Sentiment Analysis Challenge for Learn Python for Data Science #2 by @Sirajology on Youtube
 
@@ -14,6 +14,7 @@ The analysed tweets are saved to a csv file called "tweets.csv"
 ##Dependencies
 
 tweepy (http://www.tweepy.org/)
+
 textblob (https://textblob.readthedocs.io/en/dev/)
 
 #Note to the user
